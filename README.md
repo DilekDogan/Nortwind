@@ -1,4 +1,4 @@
-# Nortwind Projesi
+# Nortwind Projesi-PowerBI
 
 ![image](https://github.com/user-attachments/assets/70a1dfd1-4ff7-41ee-9aee-203a9a8c24e7)
 
